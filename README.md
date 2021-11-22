@@ -8,8 +8,4 @@
 - Foubian write code by 💞️ Love 💞️.
 -  Fun fact: To Laugh Is the First Step to Be Serious.
 
-![screengif](https://user-images.githubusercontent.com/19433107/142947293-bc54be67-fe3b-4beb-b4f9-37e420226269.gif)
-
-
-
-
+![screengif](https://user-images.githubusercontent.com/19433107/142948223-9e9ecb37-140f-4747-b64a-7fc00c0bb5f2.gif)
