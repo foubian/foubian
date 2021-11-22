@@ -6,6 +6,10 @@
 
 - Foubian is a ✨ special ✨ Code Lover.
 - Foubian write code by 💞️ Love 💞️.
-- Foubian say: To Laugh Is the First Step to Be Serious.
+-  Fun fact: To Laugh Is the First Step to Be Serious.
+
+![screengif](https://user-images.githubusercontent.com/19433107/142947293-bc54be67-fe3b-4beb-b4f9-37e420226269.gif)
+
+
 
 
