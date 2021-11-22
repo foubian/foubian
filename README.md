@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @foubian
-- 👀 I’m interested in DeskTop & Mobile Developpement
+- 👀 I’m interested in DeskTop,Web & Mobile Developpement
 - 👀 Also I’m interested in Linux Administration Sysytem
 - 🌱 I’m currently Enginnerion of Computer's Science
 - 📫 How to reach me : By e-mail : foubiantux@gmail.com
