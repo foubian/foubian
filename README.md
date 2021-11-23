@@ -8,4 +8,4 @@
 - :dart: Foubian write code with 💞️ Love 💞️.
 - :loudspeaker: Fun fact: To Laugh Is the First Step to Be Serious.
 
-![screengif](https://user-images.githubusercontent.com/19433107/142948223-9e9ecb37-140f-4747-b64a-7fc00c0bb5f2.gif)
+![screengif](https://user-images.githubusercontent.com/19433107/142995973-9e232d45-e990-4027-8fa9-5b7bfe2a4493.gif)
